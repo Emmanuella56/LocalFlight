@@ -50,8 +50,8 @@ function MainSection() {
             <FlightTemplate
               image={image2}
               titile1="Nigeria"
-              span="Lagos"
-              title2="Lagos State"
+              span="Abuja"
+              title2="F.C.T"
             />
           </div>
           <div>
@@ -66,24 +66,24 @@ function MainSection() {
             <FlightTemplate
               image={image4}
               titile1="Nigeria"
-              span="Lagos"
-              title2="Lagos State"
+              span="Port Harcourt"
+              title2="Rivers State"
             />
           </div>
           <div>
             <FlightTemplate
               image={image5}
               titile1="Nigeria"
-              span="Lagos"
-              title2="Lagos State"
+              span="Calabar"
+              title2="Cross-River State"
             />
           </div>
           <div>
             <FlightTemplate
               image={image6}
               titile1="Nigeria"
-              span="Lagos"
-              title2="Lagos State"
+              span="Kaduna"
+              title2="Kaduna State"
             />
           </div>
         </div>
